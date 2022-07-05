@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nick_Chapsas/1.0.0": {
+        "runtime": {
+          "Nick_Chapsas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nick_Chapsas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
