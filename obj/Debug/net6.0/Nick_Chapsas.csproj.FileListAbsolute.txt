@@ -13,3 +13,4 @@ C:\Users\furqa\Nick_Chapsas\obj\Debug\net6.0\refint\Nick_Chapsas.dll
 C:\Users\furqa\Nick_Chapsas\obj\Debug\net6.0\Nick_Chapsas.pdb
 C:\Users\furqa\Nick_Chapsas\obj\Debug\net6.0\Nick_Chapsas.genruntimeconfig.cache
 C:\Users\furqa\Nick_Chapsas\obj\Debug\net6.0\ref\Nick_Chapsas.dll
+C:\Users\furqa\Nick_Chapsas\obj\Debug\net6.0\Nick_Chapsas.csproj.Fody.CopyLocal.cache

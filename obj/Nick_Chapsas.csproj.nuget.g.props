@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\furqa\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nullguard.fody\3.1.0\build\NullGuard.Fody.props" Condition="Exists('$(NuGetPackageRoot)nullguard.fody\3.1.0\build\NullGuard.Fody.props')" />
+  </ImportGroup>
 </Project>

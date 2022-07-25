@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2MSQvVGkyLW7D1069zW8KrHu0yxz8sNa94OneMdb+gSOml+zY7kCU7tLgQPA7RJPDZVEXzmsLuxr99WTsGTxMA==",
+  "dgSpecHash": "jazr7N054k3uYt82viz0ARX02rIh3YI2PwaZ5uyr4TQmKFLyvOvfmwGqxEzyWIRRqCHFJc37oxV3Ke9I4oryAg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\furqa\\Nick_Chapsas\\Nick_Chapsas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\furqa\\Nick_Chapsas\\Nick_Chapsas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furqa\\.nuget\\packages\\fody\\6.6.0\\fody.6.6.0.nupkg.sha512",
+    "C:\\Users\\furqa\\.nuget\\packages\\nullguard.fody\\3.1.0\\nullguard.fody.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
